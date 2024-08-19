@@ -1,4 +1,8 @@
-## Hi there 👋
+Hey, This is Hariraam 👋
+
+I am a passionate Computer Science Student.
+
+I am currently learning Full-stack and Cloud Technologies. 
 
 <!--
 **hraamk/hraamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
