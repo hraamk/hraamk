@@ -11,6 +11,7 @@
         <h1>Hariraam Kethisvarasuthan</h1>
         <p>Welcome to my profile! I’m a passionate Computer Science Undergraduate, specializing in Full-Stack Development. With a keen interest in Cloud, I strive to create innovative solutions that make a difference.</p>
         <h2>About Me</h2>
+        <p>Nothing Much</p>
         <h2>Skills</h2>
         <p>HTML, CSS, JavaScript, Python, Java</p>
         <h2>Contact</h2>
